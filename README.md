@@ -21,7 +21,7 @@ BugHunter is a web-based game where you swat bugs away from the screen. The bugs
 - **Credits**: Shows credits, try reading them when the bugs are crawling over them!
 
 ## Access
-Visit [mangycat.github.io](https://mangycat.github.io) to start playing!
+Visit [mangycat.github.io](https://mangycat.github.io/BugHunter) to start playing!
 ### Chrome Autoplay Policy 
 Please note that Chrome has an autoplay policy that may block sounds from playing automatically. To ensure audio functions: 
 1. **Interact with the page**: Click or tap anywhere on the game screen to enable sound playback.
